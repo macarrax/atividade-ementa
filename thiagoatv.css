@@ -1,0 +1,33 @@
+h1{
+color:deeppink;
+font-size: medium;
+background-color:black;
+ }
+
+p{
+font-family: 'Times New Roman', Times, serif;
+font-size:40px ;
+line-height: normal;
+color:blueviolet;
+}
+
+.dscp{
+font-family: Arial, Helvetica, sans-serif;
+color:floralwhite;
+background-color: black;
+font-size: 20px;
+}
+
+*{
+    padding-left: 0px;
+}
+
+#sobredcp{
+max-width: 200px;
+margin: auto;
+padding: 30px;
+
+}
+
+
+
